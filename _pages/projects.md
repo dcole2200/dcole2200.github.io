@@ -50,3 +50,4 @@ Below are some featured analytics and automation projects I’ve delivered.
 - Provided scenario analysis (best/likely/worst)  
 - Improved decision‑making for five power plants  
 
+
