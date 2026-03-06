@@ -5,7 +5,6 @@ layout: single
 classes: wide
 ---
 
-# Resume
 
 Dustin W. Cole  
 Louisville, KY  
