@@ -14,6 +14,17 @@
 home:
   layout: single
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+``
+
+url: "https://dcole2200.github.io"
+baseurl: ""
+
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -117,30 +128,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dustin W. Cole"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I build scalable analytics systems that make complex decisions simple."
-  location         : "Louisville, KY"
-  email            : "dustincole.ent@gmail.com"
+  name: "Dustin W. Cole"
+  avatar:
+  bio: "I build scalable analytics systems that make complex decisions simple."
+  location: "Louisville, KY"
+  email: "dustincole.ent@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:dustincole.ent@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-       url: "www.linkedin.com/in/dustinwcole"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:dustincole.ent@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dustinwcole"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dcole2200"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
