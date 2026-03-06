@@ -5,8 +5,6 @@ layout: single
 classes: wide
 ---
 
-# Resume
-
 ## Dustin W. Cole  
 Louisville, KY • (502) 314‑2339 • dustincole.ent@gmail.com  
 
