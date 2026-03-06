@@ -49,3 +49,4 @@ Below are some featured analytics and automation projects I’ve delivered.
 - Created staffing and inventory models during COVID  
 - Provided scenario analysis (best/likely/worst)  
 - Improved decision‑making for five power plants  
+
