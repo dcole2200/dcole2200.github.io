@@ -4,8 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-# About Me
-
 I am a data and analytics leader with experience across utilities and healthcare.  
 My focus is on automation, forecasting, anomaly detection, KPI governance, Snowflake pipelines,  
 and building self‑service analytics tools that simplify complex decisions.
