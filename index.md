@@ -6,11 +6,11 @@ classes: wide
 
 # Dustin Cole
 
-Data & Analytics Leader specializing in automation, AI assisted analytics, forecasting, anomaly detection, and Snowflake pipelines.
+Data & Analytics Leader specializing in automation, Snowflake pipelines, AI assisted analytics, forecasting, anomaly detection, 
+KPI governance, and self service BI.
 
-This site highlights selected projects and experience across utilities and healthcare.
+Use the navigation above to explore:
 
-## Featured Projects
-- Unified AMI Self Service Analytics
-- [Anomaly Detection Framework- [Overheating Forecasting Model- [COVID Staffing & Inventory Forecasting](/projects/u above to explore Projects, Resume, and About.
-``
+- **Projects**  
+- **Resume**  
+- **About**
