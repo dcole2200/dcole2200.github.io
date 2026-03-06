@@ -138,7 +138,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dustincole.ent@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/dustinwcole"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
