@@ -4,13 +4,11 @@ title: ""
 classes: wide
 ---
 
-# Data & Analytics Professional
+# Data and Analytics Leader
 
-Data & Analytics Leader specializing in automation, Snowflake pipelines, AI assisted analytics, forecasting, anomaly detection, 
-KPI governance, and self service BI.
+I design scalable analytics systems that simplify complex decisions including automation, Snowflake pipelines, KPI governance, forecasting, anomaly detection, self service BI, and AI assisted analytics.
 
-Use the navigation above to explore:
-
-- **Projects**  
-- **Resume**  
-- **About**
+Explore:
+Projects
+Resume
+About
