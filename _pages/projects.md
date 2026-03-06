@@ -5,8 +5,6 @@ layout: single
 classes: wide
 ---
 
-# Projects
-
 Below are some featured analytics and automation projects I’ve delivered.
 
 ---
