@@ -1,4 +1,3 @@
-
 ---
 title: "Resume"
 permalink: /resume/
@@ -75,4 +74,3 @@ SIG Supplier Management Professional
 
 Download PDF  
 Link will be here once the PDF is uploaded.
-
