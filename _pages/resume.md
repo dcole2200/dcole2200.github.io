@@ -1,3 +1,4 @@
+
 ---
 title: "Resume"
 permalink: /resume/
@@ -5,83 +6,73 @@ layout: single
 classes: wide
 ---
 
-## Dustin W. Cole  
-Louisville, KY • (502) 314‑2339 • dustincole.ent@gmail.com  
+# Resume
 
----
+Dustin W. Cole  
+Louisville, KY  
+(502) 314-2339  
+dustincole.ent@gmail.com
 
-## Professional Summary  
-Data and analytics leader with more than 10 years of experience in automation, forecasting, BI modernization, Snowflake migration, anomaly detection, AI-assisted analytics, and self-service reporting. Skilled in designing scalable data architectures and leading analytics teams across utilities and healthcare.
+Summary  
+Data and analytics leader with experience in automation, forecasting, BI modernization, Snowflake migration, anomaly detection, AI assisted analytics, and self service reporting.
 
----
+Core Skills  
+SQL  
+Python  
+R  
+DAX  
+ETL  
+Data modeling  
+Forecasting  
+Anomaly detection  
+Snowflake  
+Power BI  
+KPI governance  
+LLM assisted development  
+Snowflake Cortex  
 
-## Core Skills  
-- SQL  
-- Python  
-- R  
-- DAX  
-- ETL pipelines  
-- Data modeling  
-- Forecasting & statistical modeling  
-- Anomaly detection  
-- Snowflake & SQL Server  
-- Power BI & paginated reporting  
-- KPI governance & semantic modeling  
-- LLM-assisted development  
-- Snowflake Cortex  
-- Automation & self-service BI  
+Experience  
 
----
+Supervisor of Meter Analytics, LG and E and KU  
+- Lead four analysts delivering KPIs, real time dashboards, and AMI analytics  
+- Directed Snowflake migration and created scalable pipelines and governance  
+- Managed analytics portfolio and reporting library  
+- Built scenario driven insights for leadership  
 
-## Experience  
+Senior AMI Analyst, LG and E and KU  
+- Built unified self service BI integrating R scripts, SSMS jobs, Snowflake, and ESRI maps  
+- Developed anomaly detection framework used to identify billing, estimating, and interval issues  
+- Built Poisson overheating forecasting model  
+- Optimized SQL for high volume interval data pipelines  
 
-### **Supervisor of Meter Analytics – LG&E/KU**  
-- Lead a team of 4 analysts delivering KPIs, real-time dashboards, and end-to-end AMI analytics.  
-- Directed Snowflake migration, designing scalable pipelines, governance standards, and AI readiness.  
-- Managed analytics portfolio, reporting library, and prioritization framework.  
-- Built scenario-driven insights for leadership.
+Senior Supply Market and Inventory Analyst, LG and E and KU  
+- Created predictive staffing and inventory models with over 200K in savings  
+- Automated 22 monthly reports and completed 300 plus ad hoc analyses  
+- Expanded contractor timekeeping system from three to nine vendors  
+- Standardized KPIs and strengthened governance  
 
-### **Senior AMI Analyst – LG&E/KU**  
-- Built unified self-service BI ecosystem integrating R scripts, SSMS jobs, Snowflake tables, Power BI, and ESRI maps.  
-- Developed anomaly detection framework identifying billing failures, estimating issues, and interval backfill errors.  
-- Built Poisson overheating forecasting model using weather.gov API data.  
-- Optimized SQL pipelines processing 700M+ daily interval rows.
+Senior Supply Chain Operations Analyst, Baptist Health  
+- Led cost reduction work across five hospitals and over five hundred clinics  
+- Standardized item descriptions and units of measure  
+- Built Qlik dashboards and sourcing analytics  
+- Delivered over 930K in savings in the first year  
 
-### **Senior Supply Market & Inventory Analyst – LG&E/KU**  
-- Built predictive staffing and inventory models during COVID, saving more than $200K.  
-- Automated 22 monthly reports and completed 300+ ad‑hoc analyses.  
-- Expanded contractor timekeeping system (3 → 9 vendors).  
-- Standardized KPIs and data governance across Commercial Operations.
+Supervisor, Accounts Payable, Baptist Health  
+- Led a team of 27 specialists  
+- Implemented OCR automation and PeopleSoft transition  
+- Reduced processing costs by 30 percent  
+- Consolidated seven AP departments and improved efficiency  
 
-### **Senior Supply Chain Ops Analyst – Baptist Health**  
-- Led cost-reduction initiatives across 5 hospitals & 500+ clinics: $930K+ in first-year savings.  
-- Standardized item descriptions and units of measure (UOM).  
-- Built Qlik dashboards and strategic sourcing tools.  
-- Partnered with clinical leadership on physician preference management.
+Education  
+MS Data Science, Indiana University, projected 2027  
+BS Business Administration, Accountancy, University of Louisville, 2021  
 
-### **Supervisor, Corporate Accounts Payable – Baptist Health**  
-- Led 27 specialists across Kentucky and Indiana.  
-- Implemented OCR automation and PeopleSoft transition; reduced processing costs by 30%.  
-- Built KPIs and dashboards for Finance leadership.  
-- Consolidated 7 AP departments and reduced operational costs by 22%.
-
----
-
-## Education  
-**Indiana University** – MS Data Science (2027 projected)  
-**University of Louisville** – BS Business Administration, Accountancy (2021)
-
----
-
-## Certifications  
+Certifications  
 Google Advanced Data Analytics  
 IBM Data Science  
-DataCamp Certified Data Scientist  
+DataCamp Data Scientist  
 SIG Supplier Management Professional  
 
----
-
-## Download Resume (PDF)
-[Click here to download
-
+Download PDF  
+Link will be here once the PDF is uploaded.
 
