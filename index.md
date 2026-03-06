@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Dustin Cole"
+title: ""
 classes: wide
 ---
 
-# Dustin Cole
+# Data & Analytics Professional
 
 Data & Analytics Leader specializing in automation, Snowflake pipelines, AI assisted analytics, forecasting, anomaly detection, 
 KPI governance, and self service BI.
