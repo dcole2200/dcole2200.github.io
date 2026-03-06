@@ -10,6 +10,10 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+# Override the default Minimal Mistakes homepage
+home:
+  layout: single
+
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -257,6 +261,13 @@ pagination:
     before: 2
     after: 2
 
+# Make Jekyll use layout: single for pages so index.md becomes the homepage
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
 
 # Plugins (previously gems:)
 plugins:
